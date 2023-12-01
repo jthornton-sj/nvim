@@ -1,2 +1,2 @@
 ## Neovim Setup
-Put me in .config/nvim
+Download nothing, just this repo. Put me in .config/nvim.
